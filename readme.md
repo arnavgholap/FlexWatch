@@ -1,8 +1,6 @@
-Watch Ecommerce Website
-
 ## **FlexWatch**
 
-Welcome to FlexWatch, your ultimate destination for stylish and sophisticated watches. This e-commerce site is meticulously crafted using HTML, CSS, and JavaScript to provide a seamless shopping experience for our customers.
+Welcome to FlexWatch, your ultimate destination for stylish and sophisticated watches. This e-commerce watch site is meticulously crafted using HTML, CSS, and JavaScript to provide a seamless shopping experience for our customers.
 
 FlexWatch is an online platform that offers a wide range of watches, from luxury brands to trendy designs. Our site is designed to be user-friendly and visually appealing, ensuring that customers can easily browse, select, and purchase their favorite timepieces.
 
