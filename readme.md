@@ -4,7 +4,7 @@ Welcome to FlexWatch, your ultimate destination for stylish and sophisticated wa
 
 FlexWatch is an online platform that offers a wide range of watches, from luxury brands to trendy designs. Our site is designed to be user-friendly and visually appealing, ensuring that customers can easily browse, select, and purchase their favorite timepieces.
 
-**Link to the website** : https://flex-watch.vercel.app/
+**Link to the demo** : https://flex-watch.vercel.app/
 
 ## Features:
 
